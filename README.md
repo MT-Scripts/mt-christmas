@@ -1,5 +1,8 @@
-# mt-christmas
+# MT Christmas
 Simple christmas script for QBCore
+
+# Preview:
+<a target="_blank" href="https://streamable.com/6iiofk">Click to see preview<a>
 
 # Features:
 - Pick gifts that are on different places in map (can be added or change locations at config)
